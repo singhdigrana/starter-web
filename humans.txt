@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Digamber	Solution architect	dsingh@gmail.com	@cooldig
 
 # THANKS
 
