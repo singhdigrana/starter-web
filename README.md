@@ -4,7 +4,7 @@ It is a simple website project for showing how to use Git and Github together. A
 
 ## Introduction
 
-This is an example to show different parts of the Git repository and various commands using a web project.
+This is an example to show different parts of the Git repository and various commands using a web project. Changing again digamber
 
 ## Purpose
 
